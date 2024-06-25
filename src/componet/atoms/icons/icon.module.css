@@ -1,0 +1,8 @@
+
+.iconColorNav {
+    @apply text-gray-400 ;
+}
+.iconColorNavActive {
+    @apply font-semibold;
+}
+
